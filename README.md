@@ -3,3 +3,5 @@
 Hope this makes hacktoberfest a better and a healthy competition for participants.
 
 But some more features must be added.
+
+Like just simple changes must not be allowed
